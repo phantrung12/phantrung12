@@ -22,10 +22,6 @@
 
 Frontend Developer with 3+ years building production platforms used by thousands of users — learning management systems, OTT streaming CMS, and AI-powered products. Hands-on experience with real-time features (WebSocket, SSE, WebRTC), and currently expanding into full-stack development with NestJS and PostgreSQL.
 
-- 🔭 Currently working on: internal LMS, AI learning assistants, and a personal full-stack blog project
-- 🌱 Currently learning: NestJS, PostgreSQL, backend architecture
-- ⚡ Fun fact: I've shipped live-video features (proctoring, streaming) that most frontend devs never touch
-
 ---
 
 ### 🛠️ Tech Stack
