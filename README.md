@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-Frontend Developer with 3+ years building production platforms used by thousands of users — learning management systems, OTT streaming CMS, and AI-powered products. Hands-on experience with real-time features (WebSocket, SSE, WebRTC), and currently expanding into full-stack development with NestJS and PostgreSQL.
+Frontend Developer with 3+ years building production platforms — learning management systems, OTT streaming CMS, and AI-powered products. Hands-on experience with real-time features (WebSocket, SSE, WebRTC), and currently expanding into full-stack development with NestJS and PostgreSQL.
 
 ---
 
